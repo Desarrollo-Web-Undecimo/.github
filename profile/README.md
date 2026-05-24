@@ -27,7 +27,7 @@
 
 <div style="font-size: 1.15em; line-height: 1.6;">
 
-* 💬 **[Foro de Discusiones](URL_DE_TUS_DISCUSSIONS):** Canales de comunicación estructurados para la **resolución de dudas**, **debates técnicos** y la publicación de **anuncios importantes**.
+* 💬 **[Foro de Discusiones](https://github.com/orgs/Desarrollo-Web-Undecimo/discussions/1):** Canales de comunicación estructurados para la **resolución de dudas**, **debates técnicos** y la publicación de **anuncios importantes**.
   
 * 📂 **Repositorios de Código:** Repositorio centralizado con las **entregas**, **prácticas** y **módulos desarrollados** durante el ciclo lectivo.
 

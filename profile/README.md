@@ -39,7 +39,7 @@
 
 <div style="font-size: 1.15em; line-height: 1.6;">
 
-* **Proyectos Personales y del Colegio:** Este espacio está abierto para subir tus **repositorios individuales**, compartir lo que están **descubriendo por su cuenta** y almacenar los proyectos o tareas que desarrollemos en las clases del colegio.
+* **Proyectos Personales y del Colegio:** Este espacio está abierto para subir sus **repositorios individuales**, compartir lo que están **descubriendo por su cuenta** y almacenar los proyectos o tareas que desarrollemos en las clases del colegio.
   
 * **Intercambio de Conocimientos:** Utilicen el foro (**Discussions**) para compartir **trucos**, **recursos web**, **herramientas de diseño**, cualquier **información técnica** o **conocimiento** que le pueda servir a los demás miembros del grupo.
   

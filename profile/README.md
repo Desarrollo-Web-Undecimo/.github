@@ -38,9 +38,9 @@
 
 <div style="font-size: 1.15em; line-height: 1.6;">
 
-* 🌐 **Proyectos Personales y del Colegio:** Este espacio está abierto para subir tus **repositorios individuales**, compartir lo que estás **descubriendo por tu cuenta** y almacenar los **proyectos más interesantes o destacados** que desarrollemos en las clases del colegio.
-* 🧠 **Intercambio de Conocimientos:** Utiliza el foro (**Discussions**) para compartir **trucos**, **recursos web**, **herramientas de diseño** o cualquier **información técnica** que le pueda servir a los demás miembros del grupo.
-* 📝 **Cultura del README (Opcional):** No es obligatorio, pero te sugerimos agregar de forma opcional un archivo **README.md** a tus proyectos para explicar brevemente qué hacen. Es una excelente forma de acostumbrarse a una **buena práctica** que se usa siempre en el **mundo profesional**.
+* **Proyectos Personales y del Colegio:** Este espacio está abierto para subir tus **repositorios individuales**, compartir lo que estás **descubriendo por tu cuenta** y almacenar los **proyectos más interesantes o destacados** que desarrollemos en las clases del colegio.
+* **Intercambio de Conocimientos:** Utiliza el foro (**Discussions**) para compartir **trucos**, **recursos web**, **herramientas de diseño** o cualquier **información técnica** que le pueda servir a los demás miembros del grupo.
+* **Cultura del README (Opcional):** No es obligatorio, pero te sugerimos agregar de forma opcional un archivo **README.md** a tus proyectos para explicar brevemente qué hacen. Es una excelente forma de acostumbrarse a una **buena práctica** que se usa siempre en el **mundo profesional**.
 
 </div>
 

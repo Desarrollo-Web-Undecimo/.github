@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     </td>
     <td width="20%" align="right" valign="top" style="border: none;">
-      <img src="NOMBRE_DE_TU_IMAGEN.webp" width="110px" alt="Escudo Fénix">
+      <img src="https://icon2.cleanpng.com/20240401/spo/transparent-phoenix-bird-elegant-silhouette-of-mythical-phoenix-bird660a614dba0895.32385509.webp" width="110px" alt="Escudo Fénix">
     </td>
   </tr>
 </table>

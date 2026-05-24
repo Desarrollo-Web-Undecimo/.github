@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     </td>
     <td width="20%" align="right" valign="top" style="border: none;">
-      <img src="NOMBRE_DE_TU_IMAGEN.webp" width="110px" alt="Escudo Fénix">
+      <img src="https://icon2.cleanpng.com/20240401/spo/transparent-phoenix-bird-elegant-silhouette-of-mythical-phoenix-bird660a614dba0895.32385509.webp" width="110px" alt="Escudo Fénix">
     </td>
   </tr>
 </table>
@@ -36,6 +36,8 @@
 
   <h3>🏃‍♂️ El Camino del Aprendizaje (Estamos en la mitad)</h3>
   
+  <img src="https://img1.picmix.com/output/stamp/normal/6/8/5/6/2626586_1a426.gif" width="220px" alt="Kirby de la mitad del camino">
+  <br>
   <img src="https://64.media.tumblr.com/tumblr_mczlg9wEcM1rrftcdo1_500.gif" width="280px" alt="Evolución de los tres Marios">
   
   <p><i>"Empezamos este viaje desde cero, paso a paso, enfrentando cada reto en el camino. Ya hemos recorrido la mitad del trayecto de estos tres años técnicos. No nos rendimos: seguimos avanzando hacia la meta, fortaleciendo nuestro código y acumulando el conocimiento necesario para nuestro futuro."</i></p>

@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     </td>
     <td width="25%" align="right" valign="top" style="border: none;">
-      <img src="https://i.ebayimg.com/images/g/QEoAAOSwwqJhXIMw/s-l1200.jpg" width="220 px" alt="Escudo Fénix">
+      <img src="https://i.ebayimg.com/images/g/QEoAAOSwwqJhXIMw/s-l1200.jpg" width="160px" alt="Escudo Fénix">
     </td>
   </tr>
 </table>
@@ -25,14 +25,24 @@
 
 ## 🏛️ Arquitectura de la Comunidad
 
-* 💬 **[Foro de Discusiones](URL_DE_TUS_DISCUSSIONS):** Canales de comunicación estructurados para la resolución de dudas, debates técnicos y publicación de anuncios importantes.
-* 📂 **Repositorios de Código:** Repositorio centralizado con las entregas, prácticas y módulos desarrollados durante el ciclo lectivo.
+<div style="font-size: 1.15em; line-height: 1.6;">
+
+* 💬 **[Foro de Discusiones](URL_DE_TUS_DISCUSSIONS):** Canales de comunicación estructurados para la **resolución de dudas**, **debates técnicos** y la publicación de **anuncios importantes**.
+* 📂 **Repositorios de Código:** Repositorio centralizado con las **entregas**, **prácticas** y **módulos desarrollados** durante el ciclo lectivo.
+
+</div>
+
+---
 
 ## 📋 Directrices y Buenas Prácticas
 
-1. **Proyectos Personales y del Colegio:** Este espacio está abierto para subir tus repositorios individuales, compartir lo que estás descubriendo por tu cuenta y almacenar los proyectos más interesantes o destacados que desarrollemos en las clases del colegio.
-2. **Intercambio de Conocimientos:** Utiliza el foro (Discussions) para compartir trucos, recursos web, herramientas de diseño o cualquier información técnica que le pueda servir a los demás miembros del grupo.
-3. **Cultura del README (Opcional):** No es obligatorio, pero te sugerimos agregar de forma opcional un archivo `README.md` a tus proyectos para explicar brevemente qué hacen. Es una excelente forma de acostumbrarse a una buena práctica que se usa siempre en el mundo profesional.
+<div style="font-size: 1.15em; line-height: 1.6;">
+
+* 🌐 **Proyectos Personales y del Colegio:** Este espacio está abierto para subir tus **repositorios individuales**, compartir lo que estás **descubriendo por tu cuenta** y almacenar los **proyectos más interesantes o destacados** que desarrollemos en las clases del colegio.
+* 🧠 **Intercambio de Conocimientos:** Utiliza el foro (**Discussions**) para compartir **trucos**, **recursos web**, **herramientas de diseño** o cualquier **información técnica** que le pueda servir a los demás miembros del grupo.
+* 📝 **Cultura del README (Opcional):** No es obligatorio, pero te sugerimos agregar de forma opcional un archivo **README.md** a tus proyectos para explicar brevemente qué hacen. Es una excelente forma de acostumbrarse a una **buena práctica** que se usa siempre en el **mundo profesional**.
+
+</div>
 
 ---
 

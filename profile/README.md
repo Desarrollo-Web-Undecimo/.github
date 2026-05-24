@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td width="80%" align="left" valign="top" style="border: none;">
+    <td width="75%" align="left" valign="top" style="border: none;">
       <h1>💻 Desarrollo Web - Undécimo</h1>
       <p>Espacio comunitario centralizado para la gestión de proyectos, intercambio de conocimientos técnicos y documentación del grupo.</p>
       <br>
@@ -15,8 +15,8 @@
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     </td>
-    <td width="20%" align="right" valign="top" style="border: none;">
-      <img src="https://e7.pngegg.com/pngimages/588/614/png-clipart-phoenix-silhouette-phoenix-leaf-chicken.png" width="110px" alt="Escudo Fénix">
+    <td width="25%" align="right" valign="top" style="border: none;">
+      <img src="https://i.ebayimg.com/images/g/QEoAAOSwwqJhXIMw/s-l1200.jpg" width="160px" alt="Escudo Fénix">
     </td>
   </tr>
 </table>

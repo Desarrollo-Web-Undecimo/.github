@@ -1,18 +1,21 @@
-<div align="center">
-
-  <img src="https://img1.picmix.com/output/stamp/normal/6/8/5/6/2626586_1a426.gif" width="150px" alt="Decoración">
-
-  <h1>💻 Desarrollo Web - Undécimo</h1>
-  <p>Espacio comunitario para el almacenamiento de proyectos, intercambio de conocimientos y documentación técnica.</p>
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-
-</div>
+<table>
+  <tr>
+    <td width="75%" align="left" valign="top" style="border: none;">
+      <h1>💻 Desarrollo Web - Undécimo</h1>
+      <p>Espacio comunitario para el almacenamiento de proyectos, intercambio de conocimientos y documentación técnica.</p>
+      <br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    </td>
+    <td width="25%" align="right" valign="top" style="border: none;">
+      <img src="NOMBRE_DE_TU_IMAGEN.png" width="120px" alt="Escudo">
+    </td>
+  </tr>
+</table>
 
 ---
 

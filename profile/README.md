@@ -1,71 +1,43 @@
-<div align="center">
-
-  <table>
-    <tr>
-      <td width="150" align="center" valign="middle" style="border: none;">
-        <img src="https://icon2.cleanpng.com/20240401/spo/transparent-phoenix-bird-elegant-silhouette-of-mythical-phoenix-bird660a614dba0895.32385509.webp" width="110px" alt="P">
-      </td>
-      <td width="300" align="left" valign="middle" style="border: none;">
-        <h1>D W | U N D É C I M O</h1>
-        <p>• COLECTIVO DE INGENIERÍA Y DISEÑO WEB</p>
-      </td>
-      <td width="150" align="center" valign="middle" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/en/2/2d/Kirby_from_Kirby%27s_Adventure.png" width="90px" alt="K">
-      </td>
-    </tr>
-  </table>
-
-  <table>
-    <tr>
-      <td style="border: none;"><img src="https://img.shields.io/badge/CORE-HTML5_/_CSS3-A0A0A0?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML/CSS"></td>
-      <td style="border: none;"><img src="https://img.shields.io/badge/LOGIC-JAVASCRIPT-A0A0A0?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JS"></td>
-      <td style="border: none;"><img src="https://img.shields.io/badge/BACKEND-PYTHON-A0A0A0?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="PY"></td>
-      <td style="border: none;"><img src="https://img.shields.io/badge/SERVER-FLASK-A0A0A0?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="FLASK"></td>
-      <td style="border: none;"><img src="https://img.shields.io/badge/DESIGN-FIGMA-A0A0A0?style=for-the-badge&logo=figma&logoColor=FFFFFF" alt="FIGMA"></td>
-    </tr>
-  </table>
-
-</div>
+<table>
+  <tr>
+    <td width="80%" align="left" valign="top" style="border: none;">
+      <h1>💻 Desarrollo Web - Undécimo</h1>
+      <p>Espacio comunitario centralizado para la gestión de proyectos, intercambio de conocimientos técnicos y documentación del grupo.</p>
+      <br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    </td>
+    <td width="20%" align="right" valign="top" style="border: none;">
+      <img src="NOMBRE_DE_TU_IMAGEN.webp" width="110px" alt="Escudo Fénix">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## « ARQUITECTURA DE DATOS
+## 🏛️ Arquitectura de la Comunidad
 
-◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇
+* 💬 **[Foro de Discusiones](URL_DE_TUS_DISCUSSIONS):** Canales de comunicación estructurados para la resolución de dudas, debates técnicos y publicación de anuncios importantes.
+* 📂 **Repositorios de Código:** Repositorio centralizado con las entregas, prácticas y módulos desarrollados durante el ciclo lectivo.
 
-### □ FORO CENTRAL
-» **[RECURSOS DE COMUNICACIÓN](URL_DE_TUS_DISCUSSIONS)**
-Canales técnicos para la resolución de consultas críticas y sincronización de equipo.
+## 📋 Directrices y Buenas Prácticas
 
-### □ REPOSITORIO DE ACTIVOS
-» **[ESTRUCTURA DE CÓDIGO FUENTE](https://github.com/Desarrollo-Web-Undecimo?tab=repositories)**
-Archivo centralizado de módulos, prácticas y entregas técnicas.
-
----
-
-## « PROTOCOLOS DE DESARROLLO
-
-◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇ ◇
-
-### | 01 | NORMALIZACIÓN DE DOCUMENTACIÓN
-La integración de activos exige la presencia de archivos `README.md` detallando requisitos, despliegue y operatividad del sistema.
-
-### | 02 | OPTIMIZACIÓN DE FLUJO
-Segmentación de consultas en categorías para garantizar la trazabilidad de soluciones y accesibilidad universal de la información.
-
-### | 03 | CONTROL DE VERSIONES
-Mantenimiento de flujo ordenado mediante ramificaciones descriptivas independientes antes de la consolidación final.
+1. **Estandarización de Documentación:** Todo repositorio integrado a la organización debe contener un archivo `README.md` detallando los requisitos, instalación y guías de uso del sistema.
+2. **Uso del Foro:** Segmentar las consultas adecuadamente dentro de las categorías de *Discussions* para mantener el histórico de soluciones accesible para todos.
+3. **Control de Versiones:** Mantener un flujo de trabajo ordenado mediante ramas descriptoras independientes antes de consolidar el código principal.
 
 ---
 
 <div align="center">
 
-  <img src="https://i.imgur.com/8Q8pA94.png" width="100%" alt="Dashed Line Separator">
-
-  <h3>// EVOLUCIÓN EN CURSO (50%)</h3>
+  <h3>🏃‍♂️ El Camino del Aprendizaje (Estamos en la mitad)</h3>
   
-  <p>Punto de inflexión técnico. Ciclo de tres años en progreso. Seguimos avanzando.</p>
+  <img src="https://64.media.tumblr.com/tumblr_mczlg9wEcM1rrftcdo1_500.gif" width="280px" alt="Evolución de los tres Marios">
   
-  <img src="https://64.media.tumblr.com/tumblr_mczlg9wEcM1rrftcdo1_500.gif" width="220px" alt="MARIO TRAJECTORY">
+  <p><i>"Empezamos este viaje desde cero, paso a paso, enfrentando cada reto en el camino. Ya hemos recorrido la mitad del trayecto de estos tres años técnicos. No nos rendimos: seguimos avanzando hacia la meta, fortaleciendo nuestro código y acumulando el conocimiento necesario para nuestro futuro."</i></p>
 
 </div>

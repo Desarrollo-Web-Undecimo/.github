@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     </td>
     <td width="25%" align="right" valign="top" style="border: none;">
-      <img src="https://i.ebayimg.com/images/g/QEoAAOSwwqJhXIMw/s-l1200.jpg" width="160px" alt="Escudo Fénix">
+      <img src="https://i.ebayimg.com/images/g/QEoAAOSwwqJhXIMw/s-l1200.jpg" width="190px" alt="Escudo Fénix">
     </td>
   </tr>
 </table>

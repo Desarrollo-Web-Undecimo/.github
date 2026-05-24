@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+  <img src="https://img1.picmix.com/output/stamp/normal/6/8/5/6/2626586_1a426.gif" width="150px" alt="Decoración">
+
   <h1>💻 Desarrollo Web - Undécimo</h1>
   <p>Espacio comunitario para el almacenamiento de proyectos, intercambio de conocimientos y documentación técnica.</p>
 
@@ -23,4 +25,15 @@
 
 1. **Documentación:** Todo proyecto subido debe contar con su respectivo archivo `README.md` explicando su funcionamiento e instalación.
 2. **Colaboración:** Utilizar el foro de manera ordenada, respondiendo a las dudas de los compañeros mediante hilos limpios.
-3. **Estructura:** Mantener las ramas (*branches*) organizadas al realizar contribuciones grupales.
+
+---
+
+<div align="center">
+
+  <h3>🏃‍♂️ El Camino del Aprendizaje</h3>
+  
+  <img src="https://64.media.tumblr.com/tumblr_mczlg9wEcM1rrftcdo1_500.gif" width="300px" alt="Tres Marios Caminando">
+  
+  <p><i>"Empezamos este viaje desde cero, paso a paso, enfrentando cada reto en el camino. Hoy, después de tres años de esfuerzo constante, estamos listos para avanzar hacia el futuro con la mente llena de conocimientos y el código como nuestra mejor herramienta."</i></p>
+
+</div>
